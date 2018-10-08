@@ -3,4 +3,4 @@ American software engineer Kent Beck, who is credited with having developed or "
 
 Test-driven development is related to the test-first programming concepts of extreme programming, begun in 1999,[3] but more recently has created more general interest in its own right.
 
-Programmers also apply the concept to improving and debugging legacy code developed with older techniques.
+Programmers also apply the concept to improving and debugging legacy code developed with older techniques. If the code is old enough, you can mummify it.
